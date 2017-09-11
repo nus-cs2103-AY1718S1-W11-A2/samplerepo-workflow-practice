@@ -1,13 +1,14 @@
-# Banana Man
+# Nicholas Chua
 
 ## Education
-* Dropped out of tree
+* A Level at National Junior College
 
 ## Work Experience
 
-* [6 months: 2000 January - June] Guerilla Terrorist
+* [6 months: 2016 January - June] Call Centre Operator
 
 ## Accomplishments
 
-* Did the art for 2 player co-op puzzle platformer **Octopus is not equal squid**
-* Became [**Banana Milkshake**](#)
+* Did the art for 2 player co-op puzzle platformer **All Men are Equal**
+* Co-developed [**collaborate!**](collaborate.herokuapp.com)
+
