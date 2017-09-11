@@ -2,5 +2,7 @@
 This is a team repo for members of the team {Team ID}
 
 # Team Members
-* [Jane Doe](members/janeDoe.md)
-* [John Doe](members/johnDoe.md)
+* [Jack's fleeting Opportunity Cost](members/JacksInflamedRage.md)
+* [Conflicting Banana](members/JacksWastedLife.md)
+* [Conflicting Squid](members/JacksBrainTumour.md)
+* [Alex Ang](members/alexAng.md)
