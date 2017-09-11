@@ -41,6 +41,15 @@ operations. In my free time, I assisted in editing video and other
 content for in-house events within my NS unit.
 
 
+Skills
+--------------------
+Mad [skills](https://zya.azurewebsites.net/Resume) yo
+
+
+Projects
+--------------------
+Wubba lubba [dub dub](https://zya.azurewebsites.net/Portfolio)
+
 
 Full resume, projects and more about me
 --------------------
