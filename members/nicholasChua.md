@@ -10,5 +10,5 @@
 ## Accomplishments
 
 * Did the art for 2 player co-op puzzle platformer **All Men are Equal**
-* Co-developed [**collaborate!**](collaborate.herokuapp.com)
+* Co-developed [**collaborate!**](http://collaborate-app.herokuapp.com/)
 
