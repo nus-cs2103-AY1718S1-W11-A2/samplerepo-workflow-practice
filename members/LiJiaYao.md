@@ -1,7 +1,7 @@
 # Li JiaYao
 https://github.com/JYL123
 
-  >Educaiton
+  >Education
   >
   >Experience
   >
