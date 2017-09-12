@@ -3,6 +3,7 @@ This is a team repo for members of the team W11-A2
 
 # Team Members
 
+* [Li JiaYao](members/LiJiaYao.md)
 * [Kevin Leonardo](members/kevinLeonardo.md)
 * [Alex Ang](members/alexAng.md)
 * [Nicholas Chua](members/nicholasChua.md)
